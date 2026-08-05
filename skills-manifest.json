@@ -1,0 +1,12 @@
+{
+  "schemaVersion": 1,
+  "reviewedAt": "2026-08-05",
+  "license": "MIT",
+  "skills": [
+    {"name": "translate-presentation-faithfully", "version": "1.0.0"},
+    {"name": "build-commercial-presentation", "version": "1.0.0"},
+    {"name": "build-marketing-presentation", "version": "1.0.0"},
+    {"name": "upgrade-presentation", "version": "1.0.0"},
+    {"name": "audit-presentation", "version": "1.0.0"}
+  ]
+}
